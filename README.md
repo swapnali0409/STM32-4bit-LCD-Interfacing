@@ -40,7 +40,11 @@ The enable pin is toggled to latch the data into the LCD.
 | EN      | PA6       |
 
 ---
+## OUTPUT
 
+![WhatsApp Image 2026-03-29 at 9 42 58 AM](https://github.com/user-attachments/assets/e7db224f-a626-4124-a22e-3a0352cc5d4c)
+
+---
 ## What I learned
 
 * How 4-bit LCD communication works
